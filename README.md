@@ -1,1 +1,2 @@
-# Interactive-Learning-Interface
+# StudySync
+A good looking dynamic webpage for e learning
